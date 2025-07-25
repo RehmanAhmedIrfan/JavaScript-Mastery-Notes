@@ -1,0 +1,11 @@
+{
+  "name": "Rehman Ahmed",
+  "age": 30,
+  "email": "ahmed@example.com",
+  "isSubscribed": true,
+  "hobbies": ["Reading", "Running", "Cooking"],
+  "address": {
+    "city": "Multan",
+    "zipCode": "66000"
+  }
+}
